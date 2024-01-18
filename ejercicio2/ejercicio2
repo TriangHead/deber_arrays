@@ -1,0 +1,6 @@
+let phrase = 'La programación web es fundamental para el progreso';
+let words = phrase.split(' '); 
+let wordCount = words.length; 
+
+alert(words);
+alert('La frase tiene ' + wordCount + ' palabras.');
